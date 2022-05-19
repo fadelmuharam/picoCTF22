@@ -15,6 +15,6 @@ function continueAsGuest()
   document.cookie = "isAdmin=0";
 }
 ```
-* This javascript file contains a function to set isAdmin cookie to 0. Zero means false here.
+* This javascript file contains a function to set isAdmin cookie to 0. Zero means false here
 * So, if we change the cookie's value to 1 and refresh the page, it will treats us like the admin and giving us the flag.
 

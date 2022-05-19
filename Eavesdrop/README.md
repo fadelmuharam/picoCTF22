@@ -10,7 +10,7 @@ Download this [packet](https://artifacts.picoctf.net/c/359/capture.flag.pcap) ca
 
 ![Picture](https://github.com/fadelmuharam/picoCTF22/blob/master/Eavesdrop/images/Screenshot_2022-05-19_03-09-15.png)
 
-* We can see that this stream contains a conversation that have a shell command to decode a file named `"file.des3"`. Let's note this command.
+* We can see that this stream contains a conversation that have a shell command to decode a file named `"file.des3"`. Let's note this command
 ```bash
 openssl des3 -d -salt -in file.des3 -out file.txt -k supersecretpassword123
 ```
