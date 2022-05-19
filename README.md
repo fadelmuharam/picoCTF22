@@ -8,3 +8,4 @@ _This is my solutions and writeups for the picoCTF 2022._
 | ----------------- | ------------------------------------------------------------------ |
 | Binary Exploitation | [basic-file-exploit](https://github.com/fadelmuharam/picoCTF22/tree/master/basic-file-exploit) |
 | Web Exploitation | [Local Authority](https://github.com/fadelmuharam/picoCTF22/tree/master/Local%20Authority) |
+|| [SQLiLite](https://github.com/fadelmuharam/picoCTF22/tree/master/SQLiLite) |
