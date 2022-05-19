@@ -2,7 +2,7 @@
 
 _This is my solutions and writeups for the picoCTF 2022._
 
-## **Table of contents**
+## Table of contents
 
 | Category             | Challenge                                                                |
 | ----------------- | ------------------------------------------------------------------ |
