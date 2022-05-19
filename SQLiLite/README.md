@@ -4,7 +4,7 @@
 
 Can you login to this website?
 
-`http://saturn.picoctf.net:61047/`
+`http://saturn.picoctf.net:{port}/`
 
 ### SOLVING
 * We have to start an instance, to launch the site. From the challenge name we can see SQL"`i`"Lite, where the letter i indicates us that this could be sql injection.
